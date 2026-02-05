@@ -1,19 +1,12 @@
+# Build
+bin/
+target/
+
 # Java
 *.class
 
-# Build dirs
-/bin/
-/target/
-
-# IDEs
-.classpath
+# IDE
 .project
+.classpath
 .settings/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
 
